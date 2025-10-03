@@ -86,31 +86,29 @@ RF-011: O sistema deve disponibilizar uma interface onde o usuário possa visual
 
 RF-012: O sistema deve permitir que os usuários realizem pagamentos via cartão de crédito/débito, Pix ou dinheiro.
 
-RF-013: O sistema deve manter os planos de restaurantes (básico e de entregadores).
+RF-013: O sistema deve permitir que o usuário cliente e o entregador se autentiquem por e-mail e senha ou autenticação via Google.
 
-RF-014: O sistema deve permitir que o usuário cliente e o entregador se autentiquem por e-mail e senha ou autenticação via Google.
+RF-014: O sistema fornecerá ao restaurante a autenticação via CNPJ e senha.
 
-RF-015: O sistema fornecerá ao restaurante a autenticação via CNPJ e senha.
+RF-015: O sistema deve permitir a redefinição de senha via e-mail em caso de esquecimento da mesma.
 
-RF-016: O sistema deve permitir a redefinição de senha via e-mail em caso de esquecimento da mesma.
+RF-016: O sistema deve permitir ao usuário cliente o salvamento de múltiplos endereços.
 
-RF-017: O sistema deve permitir ao usuário cliente o salvamento de múltiplos endereços.
+RF-017: O sistema deve permitir ao usuário cliente o salvamento de múltiplos números de telefone.
 
-RF-018: O sistema deve permitir ao usuário cliente o salvamento de múltiplos números de telefone.
+RF-018: O sistema deve permitir a busca de produtos e restaurantes por nome, preço, categoria e localização.
 
-RF-019: O sistema deve permitir a busca de produtos e restaurantes por nome, preço, categoria e localização.
+RF-019: O sistema deve permitir a filtragem de produtos dentro do cardápio do restaurante por categoria, faixa de preço e disponibilidade.
 
-RF-020: O sistema deve permitir a filtragem de produtos dentro do cardápio do restaurante por categoria, faixa de preço e disponibilidade.
+RF-020: O sistema deve permitir que o usuário acompanhe os status do seu pedido *("pendente", "em preparação", "saiu para entrega", "entregue")*.
 
-RF-021: O sistema deve permitir que o usuário acompanhe os status do seu pedido *("pendente", "em preparação", "saiu para entrega", "entregue")*.
+RF-021: O sistema deve permitir que o usuário avalie um restaurante ou entregador após cada pedido.
 
-RF-022: O sistema deve permitir que o usuário avalie um restaurante ou entregador após cada pedido.
+RF-022: O sistema deve permitir ao usuário que adicione/remova um produto a seção de favoritos.
 
-RF-023: O sistema deve permitir ao usuário que adicione/remova um produto a seção de favoritos.
+RF-023: O sistema deve manter um log de todas as alterações críticas (pedidos, pagamentos e cadastros).
 
-RF-024: O sistema deve manter um log de todas as alterações críticas (pedidos, pagamentos e cadastros).
-
-RF-025: O sistema deve permitir a geração de relatórios de vendas, entregas, cupons usados e o faturamento total gerado.
+RF-024: O sistema deve permitir a geração de relatórios de vendas, entregas, cupons usados e o faturamento total gerado.
 
 # 5. Regras de negócio
 
